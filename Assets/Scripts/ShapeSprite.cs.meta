@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 27fdea6d2a8e3cb4db9d9e98e195629f
+timeCreated: 1486909191
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - OrangeShape: {fileID: 2800000, guid: e582386e994b45b438a6902bdd846dc3, type: 3}
+  - GreenShape: {instanceID: 0}
+  - BlueShape: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
